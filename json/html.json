@@ -1,3 +1,4 @@
 _=()=>{return {
   "html":"<html><script>console.log('good2go');</script></html>"
 };}
+json=_();
